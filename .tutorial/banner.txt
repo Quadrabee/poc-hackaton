@@ -1,0 +1,18 @@
+#####################################################
+          Welcome to webspicy's sandbox!
+#####################################################
+
+This tutorial will show you how, step by step, improve
+your backend by doing some blackbox testing.
+
+We've tried to make it simple for you: you can navigate
+through the history of this repository by using the
+following commands:
+
+- next: switch to the next commit
+- previous: go back in history
+
+But first, let's test your current API by running:
+
+$ webspicy formaldoc/config.rb
+

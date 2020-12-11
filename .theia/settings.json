@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    "**/.tutorial": true,
+    "**/.git": true,
+    "**/.gitignore": true,
+    "**/.gitpod*": true,
+    "**/.theia": true,
+    "tests": true,
+    ".eslintrc.js": true,
+    "package*": true,
+    "babel.config.json": true
+  }
+}
