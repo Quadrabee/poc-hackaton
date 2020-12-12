@@ -1,18 +1,18 @@
-################################################################
-               Welcome to webspicy's sandbox!
-################################################################
+#####################################################
+          Let's start testing things
+#####################################################
 
-This tutorial will show you how, step by step, improve your
-backend by doing some blackbox testing.
+As you can see we've added a first webspicy test for
+our GET /version endpoint.
 
-We've tried to make it simple for you: you can navigate through
-this tutorial by using the following commands:
+You can run the test suite by running:
 
-- next: switch to the next step of the tutorial
-- previous: go back to the previous step
+$ webspicy formaldoc/config.rb
 
-As you can see, we start with a very basic API with only one endpoint: GET /version
+Feel free to also look at the finitio schema (formaldoc/schema.fio).
 
-You can try this endpoint by running:
+When you're done browsing, go to the next step by running:
 
-$ curl http://localhost:3000/version
+$ next
+
+
